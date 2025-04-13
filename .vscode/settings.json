@@ -1,0 +1,8 @@
+{
+    "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    }
+}
